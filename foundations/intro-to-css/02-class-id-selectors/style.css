@@ -1,1 +1,6 @@
 /* Add CSS Styling */
+.first-text{
+    color: rgb(0, 0, 0);
+    background-color: #e79999;
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
