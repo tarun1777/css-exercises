@@ -29,6 +29,8 @@ img {
  width: 200px;
 }
 
+/* you should have made entire text and image a single container so that image width and text width stays same. it was done in solution */
+
 /* do not edit this footer */
 .footer {
   position: fixed;
